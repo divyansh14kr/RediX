@@ -8,6 +8,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <netinet/ip.h>
+#include <stdbool.h>
 
 
 static void msg(const char *msg) {
