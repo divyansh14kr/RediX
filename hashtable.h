@@ -3,6 +3,8 @@
 #include <cstdint>   
 #include<assert.h>
 #include <cstdlib>   
+#include <stddef.h>
+#include <stdint.h>
 
 struct HNode{
     HNode *next = NULL;
